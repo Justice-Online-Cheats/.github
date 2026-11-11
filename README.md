@@ -13,7 +13,7 @@
 
 </div>
 
-Windows overlay for Justice Online — boss tracking, loot filtering and martial arts clarity. Built for the Song dynasty world where every stance and every drop matters. Over **100 million users** reported by NetEase as of mid-2026[reference:1].
+Windows overlay for Justice Online — boss tracking, loot filtering and martial arts clarity. Built for the Song dynasty world where every stance and every drop matters. Over **100 million users** reported by NetEase as of mid-2026.
 
 <details><summary>📑 <b>Contents</b></summary>
 
